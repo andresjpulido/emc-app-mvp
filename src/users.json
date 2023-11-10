@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "Andres Pulido",
+    "nickname": "apulido",
+    "password": "password",
+    "company_id": 1,
+    "plan":1,
+    "habits":[1,2,3],
+    "disabled": false,
+    "issurveypending": true
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Focus on the most important tasks first",
+    "description": "",
+    "startdate": "07/11/2023",
+    "enddate": "17/11/2023",
+    "trace": ["07/11/2023", "08/11/2023", "09/11/2023", "10/11/2023"]
+  },
+  {
+    "id": 2,
+    "name": "Break tasks into smaller pieces",
+    "description": "",
+    "startdate": "07/11/2023",
+    "enddate": "17/11/2023",
+    "trace": ["07/11/2023", "08/11/2023", "09/11/2023", "10/11/2023"]
+  },
+  {
+    "id": 3,
+    "name": "Take breaks",
+    "description": "",
+    "startdate": "07/11/2023",
+    "enddate": "17/11/2023",
+    "trace": ["07/11/2023", "08/11/2023", "09/11/2023", "10/11/2023"]
+  },
+  {
+    "id": 3,
+    "name": "Eliminate inefficient communication",
+    "description": "",
+    "startdate": "07/11/2023",
+    "enddate": "17/11/2023",
+    "trace": ["07/11/2023", "08/11/2023", "09/11/2023", "10/11/2023"]
+  }
+]

@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  color: var(--secundary-color);
+}
+
+.header-title {
+  font-size: 2rem;
+  padding: 0.5rem;
+  margin: 0;
+}
+
+.button-menu {
+  width: 5rem;
+  height: 5rem;
+  background-color: var(--tertiary-color);
+}

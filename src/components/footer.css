@@ -1,0 +1,30 @@
+.nav{
+    position: fixed;
+    z-index: 1;
+    background-color: var(--tertiary-color);
+    bottom: 0px;
+    width: 100%;
+}
+
+.ul-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.ul-nav > li{
+    text-align: center;
+    flex-basis: 25%;
+    flex-grow: 1;
+}
+
+.button-nav{
+    padding: .8rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: var(--tertiary-color);
+    color: var(--secundary-color);
+    border: none;
+    width: 100%;
+}

@@ -1,0 +1,16 @@
+.table-users { 
+  width: 100%; 
+  color: var(--tertiary-bg-color);
+}
+
+.table-users > tr > td,
+.table-users > tr,
+.table-users > tr > th {
+    border: 0.1rem solid var(--tertiary-color);
+    background-color: var(--primary-fg-color);
+    padding: .5rem;
+}
+
+.table-users > tr > th {
+  text-align: left;
+}

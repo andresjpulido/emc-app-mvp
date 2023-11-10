@@ -1,0 +1,38 @@
+[
+  {
+    "title": "plan #1",
+    "company": "University of Auckland",
+    "numberParticipants": 4,
+    "resources": [
+      {
+        "id": 1,
+        "name": "Video 1",
+        "content": "",
+        "type": "video",
+        "url": "video1.mp4",
+        "image": "manu-video.png"
+      },
+      {
+        "id": 2,
+        "name": "",
+        "content": "",
+        "type": "quotation",
+        "url": "",
+        "image": "",
+        "quote": "",
+        "author": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "content": "",
+        "type": "quotation",
+        "url": "",
+        "image": "",
+        "quote": "",
+        "author": ""
+      }
+    ],
+    "days": [{ "date": "", "resources": [1, 2, 3] }]
+  }
+]
